@@ -5,6 +5,8 @@ JuniorLink is a modern React Native mobile application designed to digitize the 
 
 The app features a realistic **NFC payment simulation**, **Parental Controls**, and **Biometric Security** flows.
 
+**[🔗 JuniorLink Overview](https://v0-junior-link-app-development.vercel.app/)**
+
 ## 📱 Features
 
 * **Digital ID Card:** A realistic, holographic-style digital Student ID (MyKad design) with tilt effects.

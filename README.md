@@ -35,8 +35,8 @@ Follow these steps to run the app on your own device.
 ### Installation
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/your-username/my-smart-id-app.git](https://github.com/your-username/my-smart-id-app.git)
-    cd my-smart-id-app
+    git clone (https://github.com/Ying038/JuniorLink.git)
+    cd JuniorLink
     ```
 
 2.  Install dependencies:
